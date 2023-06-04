@@ -1,0 +1,72 @@
+{
+  "1": {
+    "name": "Iggy",
+    "description": "Chad Iggy",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014353249857458276/minifig_cty690_bust.png",
+    "rarity": "Legacy",
+    "tilesRequired": [10]
+  },
+  "2": {
+    "name": "Kelvin",
+    "description": "Goddess Kelvin",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014359387625754737/minifig_sp017_bust.png",
+    "rarity": "Rare",
+    "tilesRequired": [10]
+  },
+  "3": {
+    "name": "Jestro",
+    "description": "Most cursed face you'll ever see.",
+    "image": "https://cdn.discordapp.com/attachments/1020556617646870608/1035207600121327687/minifig_nex013_bust.png",
+    "rarity": "Uncommon",
+    "tilesRequired": [10]
+  },
+  "4": {
+    "name": "Mr. Gold",
+    "description": "THE HEEHEEs WILL HAUNT YOUR DREAMS",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014351122959437934/minifig_col161_bust.png",
+    "rarity": "Common",
+    "tilesRequired": [10]
+  },
+  "5": {
+    "name": "Ernest",
+    "description": "Also known as Grant.",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014357802100493834/minifig_pi151_bust.png",
+    "rarity": "Legendary",
+    "tilesRequired": [10]
+  },
+  "6": {
+    "name": "Scarlett",
+    "description": "No? My name is not Verda.",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014357548910977852/minifig_pi143_bust.png",
+    "rarity": "Rare",
+    "tilesRequired": [10]
+  },
+  "7": {
+    "name": "Hank",
+    "description": "Arrgg, me maties, I am also known as the Legendary (uncommmon) glass cannon!",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014357042632343562/minifig_pi100_bust.png",
+    "rarity": "Uncommon",
+    "tilesRequired": [10]
+  },
+  "8": {
+    "name": "Governor",
+    "description": "Father to the daughter who has a father who is father to a daughter.",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014357170776723487/minifig_pi117_bust.png",
+    "rarity": "Legendary",
+    "tilesRequired": [10]
+  },
+  "9": {
+    "name": "Cactus Girl",
+    "description": "Literally on helium.",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014352169840951296/minifig_col322_bust.png",
+    "rarity": "Common",
+    "tilesRequired": [10]
+  },
+  "10": {
+    "name": "Mallock",
+    "description": "I command the dark magic to crash you game.",
+    "image": "https://cdn.discordapp.com/attachments/1014294187568529438/1014349098075291768/minifig_cas326_bust.png",
+    "rarity": "Legacy",
+    "tilesRequired": [10]
+  }
+}
